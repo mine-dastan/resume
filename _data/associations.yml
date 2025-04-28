@@ -11,9 +11,10 @@
   url: https://molssi.org/
 
 - organization: National Information Standards Organization (NISO)
-  role: Working group co-chair. "Taxonomy, Definitions, and Recognition Badging Scheme for Reproducibility in the Computational and Computing Sciences"
+  role: Working group co-chair. 
   year: 2019 &mdash; 2021
   url: https://www.niso.org/standards-committees/reproducibility-badging
+  summary: Taxonomy, Definitions, and Recognition Badging Scheme for Reproducibility in the Computational and Computing Sciences
 
 - organization: NumFOCUS
   role: Member of the Board of Directors
@@ -36,21 +37,24 @@
   year: 2016 &mdash; 2020
   url: http://joss.theoj.org
 
-- organization: The International Conference on High-Performance Computing, Networking, Storage and Analysis (SC)
+- organization: SC Conference
   role: Reproducibility Chair
   year: 2018 &mdash; 2019
   url: http://supercomputing.org
+  summary: The International Conference on High-Performance Computing, Networking, Storage and Analysis (SC)
 
-- organization: Society for Industrial and Applied Mathematics, SIAM, Activity Group in Computational Science and Engineering
+- organization: SIAM Activity Group in Computational Science and Engineering
   role: Vice-Chair
   year: 2017 &mdash; 2018
+  summary: Society for Industrial and Applied Mathematics
 
 - organization: Scientific Python Conference (SciPy)
   role: Program Co-Chair
   year: 2017 &mdash; 2018
   url: https://conference.scipy.org/
 
-- organization: Next Generation Computational Modeling Centre for Doctoral Training, University of Southampton, UK
+- organization: University of Southampton, UK
   role: Member of the Advisory Board
   year: 2015 &mdash; 2022
+  summary: Next Generation Computational Modeling Centre for Doctoral Training
 
