@@ -1,10 +1,29 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Doctor Honoris Causa
+  organization: Universidad Tecnica Federico Santa Maria
+  year: 2022
+  summary: The "Doctor Honoris Causa" honorary degree is the highest distinction that UTFSM can bestow.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Jupyter Distinguished Contributor
+  organization: The Jupyter Project
+  year: 2020
+  summary: For work in pioneering and promoting Jupyter in research and education, including publishing many highly-regarded course materials; for work in organizing and leading community efforts directly impacting Jupyter, such as the community workshop on Jupyter in education, championing of diversity efforts, and leadership in NumFOCUS and as General Chair of JupyterCon 2020.
+
+- award: Honorable Mention in the Open Education Awards for Excellence
+  organization: Open Education Consortium
+  year: 2017
+  summary: For achievements and contributions publishing a significant body of open educational resources and demonstrating innovative open education practices.
+
+- award: Leamer-Rosenthal Prize for Open Social Science in the Leaders in Education Category
+  organization: Berkeley Initiative for Transparency in the Social Sciences (BITSS)
+  year: 2016
+  summary: These prizes award the work of professors who incorporate instruction in transparent practices into their curricula.
+
+- award: CUDA Fellow
+  organization: NVIDIA Corp.
+  year: 2012
+  summary: "Each of these individuals has demonstrated a passion and commitment to using CUDA and the power of GPU computing to help solve some of the worlds' most challenging computational problems,” Bill Dally, chief scientist at NVIDIA.
+
+- award: NSF CAREER Award
+  organization: National Science Foundation
+  year: 2012
