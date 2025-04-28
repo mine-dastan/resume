@@ -1,9 +1,9 @@
 # Associations
 # comment out the urls if you do not wish to display them
 - organization: IEEE Computer Society
-  role: Editor-in-Chief, Computing in Science and Engineering
+  role: Editor-in-Chief
   year: 2020 &mdash; 2023
-  url: https://www.computer.org/csdl/magazine/cs
+  summary: <a href="https://www.computer.org/csdl/magazine/cs">Computing in Science and Engineering</a> technical magazine.
 
 - organization: The Molecular Sciences Software Institute (MolSSI)
   role: Science and Software Advisory Board
@@ -22,10 +22,11 @@
   url: http://numfocus.org
   summary: NumFOCUS is a 501(c)(3) non-profit for the promotion of world-clss, innovative, open source scientific software.
 
-- organization: Engineering 2030, Pontificia Universidad Catolica de Chile
-  role: Member of the Advisory Boaard
+- organization: Pontificia Universidad Catolica de Chile
+  role: Member of the Advisory Board
   year: 2017 &mdash; 2021
-  url: https://ingenieria2030.org/
+  #url: https://ingenieria2030.org/
+  summary: <a href="https://ingenieria2030.org/">Proyecto Ingenieria 2030</a>
 
 - organization: The Journal of Open Source Education, JOSE
   role: Editor-in-Chief
