@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Lorena A. Barba"
-resume_title:                   "Professor of Mechanical and Aerospace Engineering"
+resume_title:                   "Professor of Engineering"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "labarba@gwu.edu"
