@@ -1,15 +1,56 @@
 # Associations
 # comment out the urls if you do not wish to display them
+- organization: IEEE Computer Society
+  role: Editor-in-Chief, Computing in Science and Engineering
+  year: 2020 &mdash; 2023
+  url: https://www.computer.org/csdl/magazine/cs
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: The Molecular Sciences Software Institute (MolSSI)
+  role: Science and Software Advisory Board
+  year: 2019 &mdash; 2023
+  url: https://molssi.org/
 
+- organization: National Information Standards Organization (NISO)
+  role: Working group co-chair. "Taxonomy, Definitions, and Recognition Badging Scheme for Reproducibility in the Computational and Computing Sciences"
+  year: 2019 &mdash; 2021
+  url: https://www.niso.org/standards-committees/reproducibility-badging
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: NumFOCUS
+  role: Member of the Board of Directors
+  year: 2014 &mdash; 2021
+  url: http://numfocus.org
+  summary: NumFOCUS is a 501(c)(3) non-profit for the promotion of world-clss, innovative, open source scientific software.
+
+- organization: Engineering 2030, Pontificia Universidad Catolica de Chile
+  role: Member of the Advisory Boaard
+  year: 2017 &mdash; 2021
+  url: https://ingenieria2030.org/
+
+- organization: The Journal of Open Source Education, JOSE
+  role: Editor-in-Chief
+  year: 2017 &mdash; Present
+  url: http://jose.theoj.org
+
+- organization: The Journal of Open Source Software, JOSS
+  role: Associate Editor-in-Chief
+  year: 2016 &mdash; 2020
+  url: http://joss.theoj.org
+
+- organization: The International Conference on High-Performance Computing, Networking, Storage and Analysis (SC)
+  role: Reproducibility Chair
+  year: 2018 &mdash; 2019
+  url: http://supercomputing.org
+
+- organization: Society for Industrial and Applied Mathematics, SIAM, Activity Group in Computational Science and Engineering
+  role: Vice-Chair
+  year: 2017 &mdash; 2018
+
+- organization: Scientific Python Conference (SciPy)
+  role: Program Co-Chair
+  year: 2017 &mdash; 2018
+  url: https://conference.scipy.org/
+
+- organization: Next Generation Computational Modeling Centre for Doctoral Training, University of Southampton, UK
+  role: Member of the Advisory Board
+  year: 2015 &mdash; 2022
+
