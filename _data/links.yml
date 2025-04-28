@@ -1,5 +1,9 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "https://scholar.google.com/citations?user=djTaZ7UAAAAJ"
+  description: Google Scholar profile
+
+- url: "https://engineering.gwu.edu/lorena-barba"
+  description: GW Engineering faculty profile page
+
+- url: https://orcid.org/0000-0001-5812-2711
+  description: ORCID author profile
