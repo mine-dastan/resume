@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Lorena A. Barba"
-resume_title:                   "Professor of Engineering"
+resume_name:                    "Mine Dastan"
+resume_title:                   "PhD of Engineering"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "labarba@gwu.edu"
+resume_contact_email:           "mine.dastan@poliba.it"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "202-994-6749"
-resume_contact_address:         "800 22nd Street NW"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
-resume_header_contact_info:     "800 22nd Street NW, 3000 Science & Engineering Hall • 202-994-6749 • labarba@gwu.edu"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Engineering professor, computational scientist, open science pioneer, faculty director of the GW Open Source Program Office, Jupyter Distinguised Contributor.</p>"
+resume_header_intro: "<p>Polytechnic University of Bari.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
