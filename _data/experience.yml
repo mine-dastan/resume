@@ -1,28 +1,40 @@
 # Jobs
-# Full professor
-- company: The George Washington University
-  position: Professor
-  duration: 2019 &mdash; Present
-  summary: Department of Mechanical and Aerospace Engineering. Teaching graduate and undergraduate courses in	<ul class="resume-item-list"><li>Engineering Computations</li><li>Numerical Methods with Python</li><li>Aerodynamics</li></ul>
 
-- company: University of California Berkeley
-  position: Visiting Scholar
-  duration: Jan. 2016 &mdash; May 2016
-  summary: Berkeley Institute of Data Science (BIDS)
+# Research Fellow
+- company: Polytechnic University of Bari
+  position: Research Fellow (Assegno di Ricerca “Professionalizzante”)
+  duration: 2024 — Present
+  summary: EMOTIONAL Project (MICS Made in Italy, Circular & Sustainable). Supported by MUR “Department of Excellence” and EU NextGenerationEU. Supervisor, Prof. Michele Gattullo.
 
-# Associate Professor
-- company: The George Washington University
-  position: Associate Professor
-  duration: Aug. 2013 &mdash; July 2019
+- company: Polytechnic University of Bari
+  position: Research Fellow (PON FABRICARE Project)
+  duration: May 2021 — Dec. 2021
+  summary: Industrial and product design activities. Supervisor, Prof. Antonio Uva.
 
+# PhD Internships
+- company: Technical University of Munich, Germany
+  position: Abroad PhD Internship (Narvis Lab)
+  duration: May — Nov. 2023
+  summary: Co-design of visual guidance for dentists at Ludwig Maximilian University. Co-supervisors, Dr. Ulrich Eck, Prof. Nassir Navab, Dr. Cristian Diegretz, Dr. Elias Walter.
 
-# Assistant Professor
-- company: Boston University
-  position: Assistant Professor
-  duration:   Aug. 2008  &mdash; July 2013
-  summary: Department of Mechanical Engineering. Taught graduate and undergraduate courses in Fluid Mechanics</li><li>Computational Fluid Dynamics</li>
+- company: Polyclinic Hospital, University of Bari
+  position: Internal PhD Internship
+  duration: May — Oct. 2023
+  summary: VR mobility assessment for patients with visual impairments. Co-supervisor, Dr. Giancarlo Sborgia.
 
-- company: University of Bristol, UK
-  position: Lecturer (and Senior Lecturer)
-  duration: Aug. 2004 &mdash; Aug. 2008
-  summary: Applied Mathematics. Taught courses in <ul class="resume-item-list"><li>Ordinary Differential Equations</li><li>Introduction to Physcial Modeling</li>
+# Master Internships
+- company: Technical University of Munich
+  position: Master Internship
+  duration: Apr. — Jul. 2020
+  summary: Reviewed AR/VR applications for surgical guidance; co-designed remote guidance methods. Supervisor, Dr. Ulrich Eck.
+
+- company: Studio Alberto Mauro Valentini, Italy
+  position: Erasmus+ Internship
+  duration: Sep. — Nov. 2017
+  summary: Architectural design collaboration, 3D modeling, and rendering.
+
+# Erasmus+ Study
+- company: Polytechnic University of Bari
+  position: Erasmus+ Study Program
+  duration: Sep. 2015 — Jul. 2016
+  summary: Courses in construction lab, architectural design, urban planning, landscape design, and history of contemporary architecture.
