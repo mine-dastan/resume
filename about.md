@@ -1,9 +1,7 @@
 ---
-layout: resume
+layout: about
 title: About
 permalink: /about/
 ---
 
-# About Me
-
-Welcome to my About page! Here you can add your own content.
+Mine Dastan poliba

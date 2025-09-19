@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <nav class="site-nav">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/about/">About</a>
+        <!-- Other links here -->
+      </nav>
+      <main>
+        {{ content }}
+      </main>
+      <footer class="page-footer">
+        <p class="footer-line">Source on <a href="https://github.com/mine-dastan">GitHub</a>.</p>
+        <p class="footer-line">(c) Mine Dastan. All reuse allowed under CC-BY 4.0.</p>
+      </footer>
+    </div>
+  </body>
+</html>
